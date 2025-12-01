@@ -60,3 +60,7 @@ I'M A DIGITAL CRAFTSMAN WITH A PASSION FOR CLOUD TECHNOLOGIES AND MOVIES. I RUN 
 <a href="https://www.instagram.com/p/DP6MZgeiTfU/?igsh=dnBldHl3YTZqaDJk" target="_blank">
   <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/HFK.png?raw=true" alt="THEEVERYTHINGVIBE POST 5" width="250" height="300"/>
 </a>
+<a href="https://www.instagram.com/p/DPjVU5diele/?igsh=MWJuajRxemFveHEzeQ==
+" target="_blank">
+  <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/fe4d7e828bcc335d31cc381198a06fb9e007b561/%20%2Cj%2Ch.png" alt="THEEVERYTHINGVIBE POST 6" width="250" height="300"/>
+</a>
