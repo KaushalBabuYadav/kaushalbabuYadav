@@ -12,6 +12,11 @@ I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run 
   <a href="https://www.instagram.com/kaushal_john/" target="_blank">
     <img alt="instagram followers" title="Follow @KAUSHAL_JOHN" src="https://custom-icon-badges.demolab.com/badge/5.2K%20Followers-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&label=PERSONAL"/>
   </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/1B5wuXYHro/?mibextid=wwXIfr" target="_blank">
+    <img alt="Follow on Facebook" title="Follow me on Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kaushal-yadav-7b651a301?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
