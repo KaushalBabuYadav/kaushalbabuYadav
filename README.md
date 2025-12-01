@@ -12,8 +12,15 @@ I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run 
   <a href="https://www.instagram.com/kaushal_john/" target="_blank">
     <img alt="instagram followers" title="Follow @KAUSHAL_JOHN" src="https://custom-icon-badges.demolab.com/badge/5.2K%20Followers-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&label=PERSONAL"/>
   </a>
- <a href="https://www.youtube.com/c/fknight">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kaushal-yadav-7b651a301?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+    <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- X (Twitter) -->
+  <a href="https://x.com/biggie80ss?s=21" target="_blank">
+    <img alt="Follow on X" title="Follow me on X" src="https://custom-icon-badges.demolab.com/badge/X-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 <a href="https://github.com/KaushalBabuYadav?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KaushalBabuYadav?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
