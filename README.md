@@ -55,5 +55,5 @@ I'M A DIGITAL CRAFTSMAN WITH A PASSION FOR CLOUD TECHNOLOGIES AND MOVIES. I RUN 
 </a>
 
 <a href="https://www.instagram.com/p/DRHpqomjHcw/?igsh=YXJlajE4YXdyZTB5" target="_blank">
-  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true" alt="THEEVERYTHINGVIBE POST 4" width="160" height="200"/>
+  <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/99d9d4fe74739c01c11a029b8155677cef513dc3/bbf.png" alt="THEEVERYTHINGVIBE POST 4" width="160" height="200"/>
 </a>
