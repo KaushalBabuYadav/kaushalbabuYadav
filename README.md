@@ -64,3 +64,4 @@ I'M A DIGITAL CRAFTSMAN WITH A PASSION FOR CLOUD TECHNOLOGIES AND MOVIES. I RUN 
 " target="_blank">
   <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/fe4d7e828bcc335d31cc381198a06fb9e007b561/%20%2Cj%2Ch.png" alt="THEEVERYTHINGVIBE POST 6" width="250" height="300"/>
 </a>
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
