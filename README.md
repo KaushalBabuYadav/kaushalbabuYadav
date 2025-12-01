@@ -4,8 +4,9 @@
 
 I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run An Instagram Page Called **[@THEEVERYTHINGVIBE](https://www.instagram.com/theeverythingvibe?igsh=NDg0MXNiejVxNzY3)** With 45K+ Followers, Where I Share Carousels And Creative Content About Movies. All My Projects, Whether Tech Or Content, Are Built From The Ground Up, From Ideation And Planning To Final Execution With An Artistic Touch.
 <p align="left">
- <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+<a href="https://www.instagram.com/theeverythingvibe?igsh=NDg0MXNiejVxNzY3" target="_blank">
+  <img alt="instagram followers" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/44.8K%20Followers-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=FOLLOW"/>
+</a> 
  <a href="https://www.youtube.com/c/fknight">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 <a href="https://github.com/KaushalBabuYadav?tab=followers">
