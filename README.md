@@ -43,17 +43,17 @@ I'M A DIGITAL CRAFTSMAN WITH A PASSION FOR CLOUD TECHNOLOGIES AND MOVIES. I RUN 
 <!-- BEGIN INSTAGRAM-CARDS -->
 <!-- MINI 4:5 INSTAGRAM CAROUSEL SECTION -->
 <a href="https://www.instagram.com/p/DRW3xE6DKsl/?igsh=YnNqeGsycHNoZmh1" target="_blank">
-  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true" alt="THEEVERYTHINGVIBE POST 1" width="160" height="200"/>
+  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true" alt="THEEVERYTHINGVIBE POST 1" width="250" height="300"/>
 </a>
 
 <a href="https://www.instagram.com/p/DQ_7xMnDM20/?igsh=MW5iYnc2ZmM0cTd0dA==" target="_blank">
-  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/hfik.png?raw=true" alt="THEEVERYTHINGVIBE POST 2" width="160" height="200"/>
+  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/hfik.png?raw=true" alt="THEEVERYTHINGVIBE POST 2" width="250" height="300"/>
 </a>
 
 <a href="https://www.instagram.com/p/DPydzfajLjX/?igsh=MWI5NXp5dWZvaWppbA==" target="_blank">
-  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/YIYLH.png?raw=true" alt="THEEVERYTHINGVIBE POST 3" width="160" height="200"/>
+  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/YIYLH.png?raw=true" alt="THEEVERYTHINGVIBE POST 3" width="250" height="300"/>
 </a>
 
 <a href="https://www.instagram.com/p/DRHpqomjHcw/?igsh=YXJlajE4YXdyZTB5" target="_blank">
-  <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/99d9d4fe74739c01c11a029b8155677cef513dc3/bbf.png" alt="THEEVERYTHINGVIBE POST 4" width="160" height="200"/>
+  <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/99d9d4fe74739c01c11a029b8155677cef513dc3/bbf.png" alt="THEEVERYTHINGVIBE POST 4" width="250" height="300"/>
 </a>
