@@ -19,7 +19,7 @@ I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run 
 </p>
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kaushal-yadav-7b651a301?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+  <a href="https://www.linkedin.com/in/kaushal-80ss/" target="_blank">
     <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <!-- X (Twitter) -->
